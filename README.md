@@ -5,7 +5,7 @@
 
   <img src="./public/Screenshot.png" alt="IG App 2023" />
 
-<a href="https://jj-ig.vercel.app">Demo</a>
+<a href="https://albert-ig.vercel.app">Demo</a>
 
 </div>
 
@@ -142,10 +142,10 @@ npm run dev
 
 ## Author
 
-👤 **Jeff Jiang**
+👤 **Albert Boyd**
 
-- Website: [jeff-jiang.com](https://jeff-jiang.com)
-- Github: [@jeffiang13](https://github.com/jeffjiang13)
+- Website: [albert-boyd.vercel.app](https://albert-boyd.vercel.app)
+- Github: [@albertboyd](https://github.com/albertboyd)
 
 ## Show your support
 

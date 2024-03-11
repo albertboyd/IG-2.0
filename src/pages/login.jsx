@@ -276,7 +276,7 @@ function Login() {
           <p className="mb-2 text-sm">Get the app.</p>
           <a
             target="_blank"
-            href="https://github.com/jeffjiang13"
+            href="https://github.com/albertboyd"
             className="text-sm"
           >
             <div className="mb-10 flex items-center">
